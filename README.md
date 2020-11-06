@@ -22,13 +22,13 @@ python3 z-cracker.py
 **Script Will Now Start Running It Will Ask For A Wordlist (A Sample will be there with name "wordlist.lst") And A Zip File**
 ***If you are facing any issues with the script Email us At theindianhackers.help@gmail.com***
 
-=================================== License =====================================
-= [+] It is simple Credit Us If You are Modifying this code and distributing it =
-= [+] You Have full rights to modify and distribute the script                  =
-= [+] But make sure you credit us                                               =
-=================================================================================
+---- License ----
+[+] It is simple Credit Us If You are Modifying this code and distributing it
+[+] You Have full rights to modify and distribute the script
+[+] But make sure you credit us
 
-#==============================**Author**====================================#
-#=====[+] Originally Coded By [The Indian Hackers](www.github.com/theindianhackers)============#
-#==[+] Made For Educational Purpose Only Am Not Responsible For Illegal Use==#
-#============================================================================#
+--- Author ----
+Idea And Coded By [The Indian Hackers](www.github.com/theindianhackers)
+
+## Thanks For Reading Readme
+# Greatings From The Indian Hackers
