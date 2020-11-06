@@ -23,6 +23,7 @@ python3 z-cracker.py
 ***If you are facing any issues with the script Email us At theindianhackers.help@gmail.com***
 
 ---- License ----
+
 [+] It is simple Credit Us If You are Modifying this code and distributing it
 [+] You Have full rights to modify and distribute the script
 [+] But make sure you credit us
