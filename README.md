@@ -4,6 +4,7 @@ Bruteforce Any .zip File
 <img src="zipfile.png" alt="Sorry Preview Image is Not Available">
 </p>
 
+----
 ## Installation For Linux (Windows Go Watch Tom & Jerry)
 ### Installing Dependencies
 ```
@@ -23,6 +24,7 @@ python3 z-cracker.py
 **Script Will Now Start Running It Will Ask For A Wordlist (A Sample will be there with name "wordlist.lst") And A Zip File**
 ***If you are facing any issues with the script Email us At theindianhackers.help@gmail.com***
 
+----
 ---- License ----
 
 [+] You Have full rights to modify and distribute the script but make sure you credit us
@@ -31,5 +33,6 @@ python3 z-cracker.py
 Idea, Coded By [The Indian Hackers](https://www.github.com/theindianhackers/)
 Promoted By [Load The Code AKA Tarun](https://www.instagram.com/load_thecode/)
 
+----
 ## Thanks For Reading Readme
 # Greatings From The Indian Hackers
