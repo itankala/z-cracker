@@ -29,6 +29,7 @@ python3 z-cracker.py
 [+] But make sure you credit us
 
 --- Author ----
+
 Idea And Coded By [The Indian Hackers](www.github.com/theindianhackers)
 
 ## Thanks For Reading Readme
