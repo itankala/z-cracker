@@ -24,9 +24,7 @@ python3 z-cracker.py
 
 ---- License ----
 
-[+] It is simple Credit Us If You are Modifying this code and distributing it
-[+] You Have full rights to modify and distribute the script
-[+] But make sure you credit us
+[+] You Have full rights to modify and distribute the script but make sure you credit us
 
 --- Author ----
 
