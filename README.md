@@ -28,7 +28,7 @@ python3 z-cracker.py
 = [+] But make sure you credit us                                               =
 =================================================================================
 
-#==============================**Author**===================================#
-# [+] Originally Coded By Author: github.com/theindianhackers               #
-# [+] Made For Educational Purpose Only Am Not Responsible For Illegal Use  #
-#===========================================================================#
+#==============================**Author**====================================#
+#=====[+] Originally Coded By [The Indian Hackers](www.github.com/theindianhackers)============#
+#==[+] Made For Educational Purpose Only Am Not Responsible For Illegal Use==#
+#============================================================================#
