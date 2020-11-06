@@ -12,6 +12,7 @@ sudo apt-get upgrade
 sudo apt-get install git
 pip3 install tqdm pyfiglet
 ```
+**Make Sure You Have Python3.6+ & pip3 Installed On Your System**
 
 ### Getting Script And Running (Offcourse For Linux Other I Don't Know)
 ```
