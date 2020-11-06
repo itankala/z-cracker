@@ -29,7 +29,6 @@ python3 z-cracker.py
 
 
 Idea, Coded By [The Indian Hackers](www.github.com/theindianhackers)
-and Promoted By [Load The Code](www.github.com/guitaruser)
 
 ## Thanks For Reading Readme
 # Greatings From The Indian Hackers
