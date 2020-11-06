@@ -4,7 +4,7 @@ Bruteforce Any .zip File
 <img src="zipfile.png" alt="Sorry Preview Image is Not Available">
 </p>
 
-## Instalation For Linux (Mac I Don't know And Windows Go Watch Tom & Jerry)
+## Installation For Linux (Windows Go Watch Tom & Jerry)
 ### Installing Dependencies
 ```
 sudo apt-get update
@@ -15,5 +15,10 @@ pip3 install tqdm pyfiglet
 
 ### Getting Script And Running (Offcourse For Linux Other I Don't Know)
 ```
-git clone 
+git clone https://github.com/theindianhackers/z-cracker.git
+cd z-cracker/
+python3 z-cracker.py
 ```
+**Script Will Now Start Running It Will Ask For A Wordlist (A Sample will be there with name "wordlist.lst") And A Zip File**
+***If you are facing any issues with the script Email us At theindianhackers.help@gmail.com***
+
