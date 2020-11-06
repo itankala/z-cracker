@@ -29,10 +29,15 @@ python3 z-cracker.py
 
 [+] You Have full rights to modify and distribute the script but make sure you credit us
 
+
 ----
 Idea, Coded By [The Indian Hackers](https://www.github.com/theindianhackers/)
 Promoted By [Load The Code AKA Tarun](https://www.instagram.com/load_thecode/)
 
+Talk With [Load The Code](https://www.instagram.com/load_thecode/)
+Or Talk With [The Indian Hackers](https://www.instagram.com/theindianhackers/)
+
 ----
+
 ## Thanks For Reading Readme
 # Greatings From The Indian Hackers
