@@ -1,4 +1,4 @@
-# z-cracker
+# Z-cracker
 Bruteforce Any .zip File
 <p align="center">
 <img src="zipfile.png" alt="Sorry Preview Image is Not Available">
